@@ -26,4 +26,4 @@ Coin calculator asks the user how many coins they have of each of the following 
 
 # Requirements #
 
-* GCC Compiler
+* GNU GCC Compiler
