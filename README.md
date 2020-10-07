@@ -4,5 +4,6 @@ Coin Calculator is a simple C++ program which calculates the total dollar value 
 
 # Description #
 
+Coin calculator asks the user how many coins they have of each of the following types: penny, nickel, dime, quarter, half dollar, and dollar coin. The program then tells the user the total dollar value of all of their coins.
 
 # Installation #
